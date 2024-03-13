@@ -1,6 +1,7 @@
 
 # HdrezkAPI
 ![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+
 This project is an API wrapper designed to interact with a comprehensive movie database website, which hosts an extensive collection of films covering various genres, languages, and periods. The primary purpose of this wrapper is to provide a tool for exploring and understanding the capabilities of web APIs and data manipulation.
 
 
