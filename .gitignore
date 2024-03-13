@@ -1,0 +1,5 @@
+pyproject.toml
+build
+dist
+HdrezkAPI.egg-info
+*.pyc
