@@ -1,7 +1,6 @@
 
 # HdrezkAPI
 ![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-
 This project is an API wrapper designed to interact with a comprehensive movie database website, which hosts an extensive collection of films covering various genres, languages, and periods. The primary purpose of this wrapper is to provide a tool for exploring and understanding the capabilities of web APIs and data manipulation.
 
 
@@ -21,6 +20,14 @@ The creator urges all users to respect copyright laws and to use this tool respo
 
 By using this API wrapper, you agree to use it in a manner that complies with all applicable laws and regulations. The creator will not be held liable for any misuse of this software or for any legal consequences that arise from such misuse. Users are responsible for ensuring their use of the wrapper is legal and in compliance with copyright laws.
 
+## Installation
+
+Install hdrezkapi with pip
+
+```bash
+pip install hdrezkapi
+```
+    
 ## Usage/Examples
 
 
@@ -65,4 +72,3 @@ print(streams['480p'][0])
 
 }
 ```
-
